@@ -1,0 +1,1 @@
+{"name":"reliable-developers","version":"2.0.0","private":true,"scripts":{"build":"node scripts/build.mjs","preview":"SHOW_DEMO=1 node scripts/build.mjs && node tests/server.mjs"},"engines":{"node":">=20"}}
